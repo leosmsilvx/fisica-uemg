@@ -21,7 +21,7 @@
 - p = $80 \times 9,8 N$
 - μ = $134 \div (80 \times 9,8) = 134 \div 784$
 ---
-### Obejto 2:
+### Obejto 3:
 - m = 100kg
 - Fa = 167N
 - p = $100 \times 9,8 N$
@@ -57,7 +57,7 @@
 - p = $80 \times 9,8 N$
 - μ = $73 \div (80 \times 9,8) = 73 \div 784$
 ---
-### Obejto 2:
+### Obejto 3:
 - m = 100kg
 - Fa = 91N
 - p = $100 \times 9,8 N$
@@ -92,7 +92,7 @@
 - p = $80 \times 9,8 N$
 - μ = $192 \div (80 \times 9,8) = 192 \div 784$
 ---
-### Obejto 2:
+### Obejto 3:
 - m = 100kg
 - Fa = 239N
 - p = $100 \times 9,8 N$
